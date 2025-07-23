@@ -15,6 +15,7 @@ günlük hayatımızda kullandığımız deyim, ata sözeleri, küfür ve argo t
 # Kullancılar belli alanlarda ya da kategorilerde arama yapabilecek.
 # Günün kelimesi, ayın/haftanın popüler kelimeleri gibi sekmeler olacak.
 # Uygulama belli bir kitleye ulaştıktan sonra kullanıcıların arasından yazarlar seçilecek, her kullanıcı siteyele kelime ekleyemeyecek.
+# Ana sayfada alta doğru indikçe pop up quiz gibi basit testler.
 
 
 - Kullanılacak teknolojiler:
